@@ -45,3 +45,6 @@ IOS上:
     AssetBundle.CreatFromFile
 
 详细参见http://www.xuanyusong.com/archives/2405
+
+## Android sdk 下载 ##
+http://www.cnblogs.com/sunzn/p/4242131.html
